@@ -1,0 +1,12 @@
+{
+  "name": "michi_zufall",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js debug",
+    "start": "node index.js"
+  },
+  "author": "Minionflo",
+  "license": "ISC"
+}
